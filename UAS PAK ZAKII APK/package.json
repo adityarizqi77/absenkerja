@@ -1,0 +1,5 @@
+{
+  "name": "hadir-absensi-upah",
+  "private": true,
+  "scripts": { "test": "node --test" }
+}
